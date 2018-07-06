@@ -1,0 +1,42 @@
+*{font-family: "微软雅黑";margin:0 auto;padding:0;}
+a{text-decoration:none;}
+.clear{clear:both;}
+
+/*页面导航大标题共用样式*/
+.arccon{width:1200px;margin:0 auto;}
+.arccon_nav{width:1200px;margin:0 auto;padding-top:22px;padding-bottom:10px;color:#333;font-size:16px;}
+.arccon_nav a,.arccon_nav span{color:#808080;font-size:16px;}
+.arccon_tit{width:1200px;height:65px;line-height:65px;color:#283949;text-align:center;border-bottom:1px solid #283949;font-size:26px;}
+
+/*公司简介*/
+.arccon_cen{width:1200px;margin-top:50px;margin-bottom:120px;height:374px;}
+.arccon_cen_lf{width:367px;float:left;}
+.arccon_cen_rt{float:right;margin-right:12px;width:776px;}
+.arccon_cen_rt p{font-size:18px;color:#333;line-height:37px;}
+
+/*产品展示*/
+.lst_cn{width:1200px;margin-top:50px;}
+.lst_cn_lf{width:182px;float:left;}
+.lst_cn_lf a{display:block;width:182px;height:52px;line-height:52px;font-size:18px;font-weight:bold;color:#333;text-align:center;background:#dbdbdb;margin-bottom:10px;}
+.lst_cn_lf a.lst_cn_lf_bc{background:#ffbd00;color:#fff;}
+.lst_cn_rt{width:824px;float:right;margin-right:84px;}
+.lst_cn_rt p{width:372px;float:left;border:5px solid #ededed;height:442px;margin-bottom:60px;}
+.lst_cn_rt p.lst_cn_rt_p{margin-right:60px;}
+
+/*分页样式*/
+.lst_cn_fy{width:355px;margin:0 auto;margin-top:10px;margin-bottom:110px;height:30px;line-height:30px;color:#c2c2c2;font-size:14px;}
+.lst_cn_fy a{display:inline-block;height:30px;line-height:30px;font-size:14px;color:#333;padding:0 6px;border:1px solid #ededed;}
+.lst_cn_fy a.lst_cn_fy_cl{color:#fff;background:#283949;}
+
+/*服务支持*/
+.fwzc_con{width:1200px;}
+.fwzc_con_img{width:1200px;margin:50px auto;}
+.fwzc_con_img p{width:556px;float:left;height:356px;background:#dbdbdb;}
+.fwzc_con_img p.fwzc_con_img_p{float:right;}
+.fwzc_con_bt{width:1200px;margin-bottom:250px;}
+.fwzc_con_bt h3{font-size:22px;color:#283949;margin-bottom:14px;}
+.fwzc_con_bt p{font-size:18px;color:#333;margin-bottom:40px;}
+
+/*联系我们*/
+.lxwm_cen{width:1200px;margin:170px auto;}
+.lxwm_cen img{width:100%;}
