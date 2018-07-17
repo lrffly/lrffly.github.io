@@ -31,9 +31,9 @@ a{text-decoration:none;}
 /*服务支持*/
 .fwzc_con{width:1200px;}
 .fwzc_con_img{width:1200px;margin:50px auto;}
-.fwzc_con_img p{width:556px;float:left;height:356px;background:#dbdbdb;}
+.fwzc_con_img p{width:556px;float:left;height:346px;background:#dbdbdb;}
 .fwzc_con_img p.fwzc_con_img_p{float:right;}
-.fwzc_con_bt{width:1200px;margin-bottom:250px;}
+.fwzc_con_bt{width:1200px;margin-bottom:70px;}
 .fwzc_con_bt h3{font-size:22px;color:#283949;margin-bottom:14px;}
 .fwzc_con_bt p{font-size:18px;color:#333;margin-bottom:40px;}
 
